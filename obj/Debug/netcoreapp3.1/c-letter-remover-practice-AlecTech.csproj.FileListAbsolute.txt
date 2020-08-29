@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Programming\c-letter-remover-practice-AlecTech\bin\Debug\netcoreapp3.1\c-letter-remover-practice-AlecTech.exe
+C:\Users\User\Desktop\Programming\c-letter-remover-practice-AlecTech\bin\Debug\netcoreapp3.1\c-letter-remover-practice-AlecTech.deps.json
+C:\Users\User\Desktop\Programming\c-letter-remover-practice-AlecTech\bin\Debug\netcoreapp3.1\c-letter-remover-practice-AlecTech.runtimeconfig.json
+C:\Users\User\Desktop\Programming\c-letter-remover-practice-AlecTech\bin\Debug\netcoreapp3.1\c-letter-remover-practice-AlecTech.runtimeconfig.dev.json
+C:\Users\User\Desktop\Programming\c-letter-remover-practice-AlecTech\bin\Debug\netcoreapp3.1\c-letter-remover-practice-AlecTech.dll
+C:\Users\User\Desktop\Programming\c-letter-remover-practice-AlecTech\bin\Debug\netcoreapp3.1\c-letter-remover-practice-AlecTech.pdb
+C:\Users\User\Desktop\Programming\c-letter-remover-practice-AlecTech\obj\Debug\netcoreapp3.1\c-letter-remover-practice-AlecTech.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programming\c-letter-remover-practice-AlecTech\obj\Debug\netcoreapp3.1\c-letter-remover-practice-AlecTech.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programming\c-letter-remover-practice-AlecTech\obj\Debug\netcoreapp3.1\c-letter-remover-practice-AlecTech.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming\c-letter-remover-practice-AlecTech\obj\Debug\netcoreapp3.1\c-letter-remover-practice-AlecTech.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\c-letter-remover-practice-AlecTech\obj\Debug\netcoreapp3.1\c-letter-remover-practice-AlecTech.dll
+C:\Users\User\Desktop\Programming\c-letter-remover-practice-AlecTech\obj\Debug\netcoreapp3.1\c-letter-remover-practice-AlecTech.pdb
+C:\Users\User\Desktop\Programming\c-letter-remover-practice-AlecTech\obj\Debug\netcoreapp3.1\c-letter-remover-practice-AlecTech.genruntimeconfig.cache
